@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joyee2004
 - 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Web development and deep learning. 
+-
 
 
 
