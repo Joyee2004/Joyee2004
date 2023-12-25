@@ -15,13 +15,14 @@ I'm always eager to learn and expand my skillset. Currently, I'm diving deeper i
 - Deep Learning
 - Natural Language Processing (NLP)
 - Full-stack Web Development
+- Data Structures and Algorithms
 
 ## 🚀 Projects
 
 Here are some projects I've been working on:
 
+- [BudgetBuddy](https://github.com/Joyee2004/BudgetBuddy):An expense tracker website made using ReactJs, MySQL, Node.
 - [Object-detection](https://github.com/Joyee2004/object-detection): A Streamlit app using Faster R-CNN for object detection.
-
 - [Course Crafter](https://github.com/Joyee2004/CourseCrafter): CourseCrafter is a web application designed to revolutionize the way users discover courses tailored to their interests and needs.
 ## 📫 Let's Connect
 
@@ -34,6 +35,3 @@ Feel free to reach out to me! Whether it's about collaboration, tech discussions
 I believe that the best code is not just functional but also a work of art!
 
 Thanks for stopping by! ✨
-
-
-
