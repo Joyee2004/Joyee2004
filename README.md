@@ -21,7 +21,7 @@ I'm always eager to learn and expand my skillset. Currently, I'm diving deeper i
 
 Here are some projects I've been working on:
 
-- [BudgetBuddy](https://github.com/Joyee2004/BudgetBuddy):An expense tracker website made using ReactJs, MySQL, Node.
+- [RagMantra](https://github.com/Joyee2004/RagMantra):A Retrieval Augmented Generation interface that utilises local llms using Ollama to perform tasks like pdf summarization, question and answer based chats, etc.
 - [Object-detection](https://github.com/Joyee2004/object-detection): A Streamlit app using Faster R-CNN for object detection.
 - [Course Crafter](https://github.com/Joyee2004/CourseCrafter): CourseCrafter is a web application designed to revolutionize the way users discover courses tailored to their interests and needs.
 ## 📫 Let's Connect
