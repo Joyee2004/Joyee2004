@@ -71,4 +71,13 @@ A web platform that helps users discover courses tailored to their interests.
 
 ---
 
-## 📫
+## 📫Let's Connect!
+
+I'm always open to networking, collaborations, or tech discussions.
+
+**LinkedIn:** [Joyee Biswas](https://www.linkedin.com/in/joyee-biswas-807b53258/)  
+---
+
+## 🌟 Fun Fact
+
+I believe the best code is not just functional—but also elegant and thoughtful.
