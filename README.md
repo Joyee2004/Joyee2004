@@ -12,7 +12,11 @@ I love building intelligent systems, experimenting with algorithms, and working 
 - 🤖 **AI Research Intern @ IBM Research (May 2025 – Aug 2025)**  
   - Worked on **RLHF (Reinforcement Learning from Human Feedback)**  
   - Hands-on experience with **GRPO, PPO, and DPO** training algorithms  
-- 📊 **Data Scientist Intern @ Meesho (Jan 2026 – Jun 2026)**  
+- 📊 **Data Scientist Intern @ Meesho (Jan 2026 – Jun 2026)**
+- MLH HackCBS 7.0 (2024) Winner
+- MLH HackByte 2.0 (2024) Best All Girls Team
+- Winner at ThermaOracle, Coginzance, IIT Roorkee, a 24- hr ML Hackathon.
+- Among top 15 in Meesho DICE Challenge in Data Science Track.
 - ❤️ Passionate about **AI, ML, Deep Learning, Data Science**, and **Model Alignment**  
 - 🌱 Always exploring new technologies and solving challenging problems  
 - 🔗 Looking forward to connecting with people and learning more!
