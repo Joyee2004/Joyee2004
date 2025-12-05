@@ -1,37 +1,74 @@
-# Hello, I'm Joyee! 👋
+# 👋 Hello, I'm Joyee!
 
-Welcome to my GitHub profile! I'm passionate about technology and love exploring new and exciting projects. Here, you'll find a mix of my personal and collaborative work.
+Welcome to my GitHub profile!  
+I’m a **CSE'26 B.Tech student at IIIT Jabalpur**, passionate about **Artificial Intelligence, Machine Learning, and Data Science**.  
+I love building intelligent systems, experimenting with algorithms, and working on impactful real-world projects.
+
+---
+
+## 🧑‍💻 About Me  
+
+- 🎓 **CSE 2026 | IIIT Jabalpur**  
+- 🤖 **AI Research Intern @ IBM Research (May 2025 – Aug 2025)**  
+  - Worked on **RLHF (Reinforcement Learning from Human Feedback)**  
+  - Hands-on experience with **GRPO, PPO, and DPO** training algorithms  
+- 📊 **Data Scientist Intern @ Meesho (Jan 2026 – Jun 2026)**  
+- ❤️ Passionate about **AI, ML, Deep Learning, Data Science**, and **Model Alignment**  
+- 🌱 Always exploring new technologies and solving challenging problems  
+- 🔗 Looking forward to connecting with people and learning more!
+
+---
 
 ## 🔧 Technologies & Tools
 
-- Python | Streamlit | C | C++ |Java | Pytorch
-- Machine Learning | Deep Learning | Data Science
-- Web Development | ReactJs | MySQL |Node
-- Git | GitHub
+- **Languages:** Python, C, C++, Java, JavaScript  
+- **ML/AI:** PyTorch, Scikit-learn, RLHF (PPO / DPO / GRPO)  
+- **Data Science:** Pandas, NumPy, Streamlit, Data Visualization  
+- **Web Development:** React.js | Node.js | MySQL  
+- **Tools:** Git, GitHub, Docker, Ollama  
 
-## 🌱 Currently Learning
-
-I'm always eager to learn and expand my skillset. Currently, I'm diving deeper into:
-- Deep Learning
-- Natural Language Processing (NLP)
-- Full-stack Web Development
-- Data Structures and Algorithms
+---
 
 ## 🚀 Projects
 
-Here are some projects I've been working on:
+### 🔹 [**ABC Rule Miner**](https://github.com/Joyee2004/ABC-Rule-Miner)
+A supervised **explainable AI rule-mining algorithm** for extracting high-confidence IF–THEN rules for behavior prediction.  
+Includes:  
+- Rule extraction  
+- Confidence filtering  
+- Coverage evaluation  
+- Comparison with Apriori  
 
-- [RagMantra](https://github.com/Joyee2004/RagMantra):A Retrieval Augmented Generation interface that utilises local llms using Ollama to perform tasks like pdf summarization, question and answer based chats, etc.
-- [Object-detection](https://github.com/Joyee2004/object-detection): A Streamlit app using Faster R-CNN for object detection.
-- [Course Crafter](https://github.com/Joyee2004/CourseCrafter): CourseCrafter is a web application designed to revolutionize the way users discover courses tailored to their interests and needs.
-## 📫 Let's Connect
 
-Feel free to reach out to me! Whether it's about collaboration, tech discussions, or just to say hi, I'd love to connect.
+---
 
-- LinkedIn: [Joyee's LinkedIn](https://www.linkedin.com/in/joyee-biswas-807b53258)
+### 🔹 [**RagMantra**](https://github.com/Joyee2004/RagMantra)  
+A Retrieval-Augmented Generation (RAG) interface using **local LLMs via Ollama** for:  
+- PDF summarization  
+- Document Q&A  
+- Interactive chats  
+- Multi-document retrieval  
 
-## 🌟 Fun Fact
+---
 
-I believe that the best code is not just functional but also a work of art!
+### 🔹 [**Object Detection**](https://github.com/Joyee2004/object-detection)  
+A Streamlit-based object detection app using **Faster R-CNN**.
 
-Thanks for stopping by! ✨
+---
+
+### 🔹 [**CourseCrafter**](https://github.com/Joyee2004/CourseCrafter)  
+A web platform that helps users discover courses tailored to their interests.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Deep Learning  
+- Natural Language Processing  
+- Model Alignment & RLHF  
+- Full-stack Web Development  
+- Data Structures & Algorithms  
+
+---
+
+## 📫
