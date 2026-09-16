@@ -1,13 +1,12 @@
 # 👋 Hello, I'm Joyee!
 
 Welcome to my GitHub profile!  
-I’m a **CSE'26 B.Tech student at IIIT Jabalpur**, passionate about **Artificial Intelligence, Machine Learning, and Data Science**.  
-I love building intelligent systems, experimenting with algorithms, and working on impactful real-world projects.
+
 
 ---
 
 ## 🧑‍💻 About Me  
-
+-**Research Engineer @ IBM
 - 🎓 **CSE 2026 | IIIT Jabalpur**  
 - 🤖 **AI Research Intern @ IBM Research (May 2025 – Aug 2025)**  
   - Worked on **RLHF (Reinforcement Learning from Human Feedback)**  
