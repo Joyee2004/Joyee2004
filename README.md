@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 🧑‍💻 About Me  
--**Research Engineer @ IBM
+-**Research Engineer @ IBM**
 - 🎓 **CSE 2026 | IIIT Jabalpur**  
 - 🤖 **AI Research Intern @ IBM Research (May 2025 – Aug 2025)**  
   - Worked on **RLHF (Reinforcement Learning from Human Feedback)**  
