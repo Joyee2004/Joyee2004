@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Joyee Biswas! 👋
+# Hi folks,Joyee Biswas here !
 
 <p>
   <code>Coffee ☕ • Code ☢️ • Chaos ↱ • Repeat</code> | 
